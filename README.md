@@ -1,6 +1,4 @@
-# case-service-2
-
-
+# case-service
 
 ## Getting started
 
